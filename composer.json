@@ -4,8 +4,7 @@
     "keywords": ["php", "strings", "date", "url"],
     "homepage": "https://github.com/ThomasMrln/Rope",
     "license": "MIT",
-    "minimum-stability": "dev",
-    "version": "0.1",
+    "minimum-stability": "dev-master",
     "authors": [
         {
             "name": "Thomas Merlen",
@@ -16,7 +15,7 @@
     "require": {
         "php": ">=5.4.0"
     },
-    "target-dir": "ThomasMrln/Rope",
+    "target-dir": "thomasmrln/rope",
     "autoload": {
         "classmap": ["/"]
     }
