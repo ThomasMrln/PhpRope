@@ -4,6 +4,7 @@
     "keywords": ["php", "strings", "date", "url"],
     "homepage": "https://github.com/ThomasMrln/Rope",
     "license": "MIT",
+    "minimum-stability": "dev",
     "version": "0.1",
     "authors": [
         {
