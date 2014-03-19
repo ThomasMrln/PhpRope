@@ -17,6 +17,6 @@
     },
     "target-dir": "thomasmrln/rope",
     "autoload": {
-        "classmap": ["/"]
+        "psr-0": { "Rope": "src/" }
     }
 }
