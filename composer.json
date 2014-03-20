@@ -15,8 +15,10 @@
     "require": {
         "php": ">=5.4.0"
     },
-    "target-dir": "thomasmrln/rope",
+    "target-dir": "/",
     "autoload": {
-        "psr-0": { "Rope": "src/" }
+        "psr-0": { 
+            "Rope": "src/"
+        }
     }
 }
