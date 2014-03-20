@@ -1,6 +1,6 @@
 <?php
 
-namespace ThomasMrln\Rope;
+//namespace ThomasMrln\Rope;
 
 /**
  *	@resume		Rope is a php class with basic function for date/url/string format we can use every time.
